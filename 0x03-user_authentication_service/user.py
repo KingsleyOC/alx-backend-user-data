@@ -1,5 +1,5 @@
 #!/user/bin/env python3
-""" User model definition code """
+""" User model definition """
 
 
 from sqlalchemy.ext.declarative import declarative_base
